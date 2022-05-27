@@ -457,7 +457,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.3
   accuracy: 1
-  rotSpeed: 25
+  rotSpeed: 100
   wpManager: {fileID: 1045164253}
   wpHeli: {fileID: 1988140324}
   wpRuin: {fileID: 1075392744}
